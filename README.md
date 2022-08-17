@@ -2,7 +2,7 @@
 
 - [FakeStore](#fakestore)
   - [Mock API](#mock-api)
-  - [APIs Used](#apis-used)
+    - [APIs Used](#apis-used)
 
 ## Mock API
 
@@ -12,7 +12,7 @@ Fake Store API - [https://fakestoreapi.com](https://fakestoreapi.com)
 
 Docs: [https://fakestoreapi.com/docs](https://fakestoreapi.com/docs)
 
-## APIs Used
+### APIs Used
 
 - [Get all products](https://fakestoreapi.com/docs#p-all): `GET https://fakestoreapi.com/products`
 - [Get all categories](https://fakestoreapi.com/docs#p-categories): `GET https://fakestoreapi.com/products/categories`
